@@ -1,0 +1,142 @@
+[
+	{
+		"id": 1,
+		"title": "Guitarra Criolla",
+		"description": "Guitarra criolla",
+		"price": 40000,
+		"thumbnail": [
+			"ruta-imagen-1.jpg",
+			"ruta-imagen-21.jpg"
+		],
+		"code": "EP001",
+		"category": "Guitarra",
+		"stock": 50,
+		"status": true
+	},
+	{
+		"id": 2,
+		"title": "Guitarra Eléctrica",
+		"description": "Guitarra eléctrica de alta calidad",
+		"price": 15000,
+		"thumbnail": [
+			"ruta-imagen-2.jpg",
+			"ruta-imagen-22.jpg"
+		],
+		"code": "EP002",
+		"category": "Guitarra",
+		"stock": 20,
+		"status": true
+	},
+	{
+		"id": 3,
+		"title": "Bajo",
+		"description": "Bajo de cuatro cuerdas",
+		"price": 8500,
+		"thumbnail": [
+			"ruta-imagen-3.jpg",
+			"ruta-imagen-23.jpg"
+		],
+		"code": "EP003",
+		"category": "Bajo",
+		"stock": 30,
+		"status": true
+	},
+	{
+		"id": 4,
+		"title": "Bajo de 5 Cuerdas",
+		"description": "Bajo de cinco cuerdas para profesionales",
+		"price": 12000,
+		"thumbnail": [
+			"ruta-imagen-4.jpg",
+			"ruta-imagen-24.jpg"
+		],
+		"code": "EP004",
+		"category": "Bajo",
+		"stock": 15,
+		"status": true
+	},
+	{
+		"id": 5,
+		"title": "Guitarra Acústica",
+		"description": "Guitarra acústica de alta gama",
+		"price": 28000,
+		"thumbnail": [
+			"ruta-imagen-5.jpg",
+			"ruta-imagen-25.jpg"
+		],
+		"code": "EP005",
+		"category": "Guitarra",
+		"stock": 10,
+		"status": true
+	},
+	{
+		"id": 6,
+		"title": "Bajo de 6 Cuerdas",
+		"description": "Bajo de seis cuerdas para músicos avanzados",
+		"price": 16500,
+		"thumbnail": [
+			"ruta-imagen-6.jpg",
+			"ruta-imagen-26.jpg"
+		],
+		"code": "EP006",
+		"category": "Bajo",
+		"stock": 8,
+		"status": true
+	},
+	{
+		"id": 7,
+		"title": "Guitarra Eléctrica HSS",
+		"description": "Guitarra eléctrica con pastillas HSS",
+		"price": 19500,
+		"thumbnail": [
+			"ruta-imagen-7.jpg",
+			"ruta-imagen-27.jpg"
+		],
+		"code": "EP007",
+		"category": "Guitarra",
+		"stock": 25,
+		"status": true
+	},
+	{
+		"id": 8,
+		"title": "Bajo de 4 Cuerdas Sunburst",
+		"description": "Bajo de cuatro cuerdas con acabado Sunburst",
+		"price": 9500,
+		"thumbnail": [
+			"ruta-imagen-8.jpg",
+			"ruta-imagen-28.jpg"
+		],
+		"code": "EP008",
+		"category": "Bajo",
+		"stock": 18,
+		"status": true
+	},
+	{
+		"id": 9,
+		"title": "Guitarra Clásica",
+		"description": "Guitarra clásica con cuerdas de nylon",
+		"price": 32000,
+		"thumbnail": [
+			"ruta-imagen-9.jpg",
+			"ruta-imagen-29.jpg"
+		],
+		"code": "EP009",
+		"category": "Guitarra",
+		"stock": 12,
+		"status": true
+	},
+	{
+		"id": 10,
+		"title": "Bajo de 5 Cuerdas Activo",
+		"description": "Bajo de cinco cuerdas activo con previo incorporado",
+		"price": 13500,
+		"thumbnail": [
+			"ruta-imagen-10.jpg",
+			"ruta-imagen-30.jpg"
+		],
+		"code": "EP010",
+		"category": "Bajo",
+		"stock": 5,
+		"status": true
+	}
+]
